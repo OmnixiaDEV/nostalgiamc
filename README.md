@@ -1,8 +1,9 @@
 # nostalgiamc
 
 ##Todo list
-*Starter Tutorial
-
+- [ ] Ranks
+- [ ] Starter Tutorial
+- [ ] Setup Races
 
 
 #Starter Tutorial
@@ -32,8 +33,8 @@
   * `&fby questing and killing named mobs in the world`
   * (Flashing Swords)
 * Scene 6
-  * &f Find &cIdentity Tomes &f
-  * &f to &aactivate &fthe items.
+  * `&f Find &cIdentity Tomes &f`
+  * `&f to &aactivate &fthe items.`
 * Scene 7
   * `&fMake &aMoney`
   * `&fby selling items
@@ -47,5 +48,9 @@
   * `&f Can only be sold via the &6Auction House`
   * `&f located in each major city`
 * Scene 10
-* `&fEarn interest on deposited &amoney & EXP&f.`
-* `&fSpeak to a Banker in any main city`
+  * `&fEarn interest on deposited &amoney & EXP&f.`
+  * `&fSpeak to a Banker in any main city`
+* TBC
+
+
+
