@@ -6,35 +6,34 @@
 - [ ] Setup Races
 
 #Ranks
-
 * Stone Guard - Default
- * prefix color = Gray
- * No EXP interest
- * Bank Tabs 1 = `bank.tabs.1`
- * 2 x $200 loans =  `bank.loan.amount.200.2`
- * 10% Interest = `bank.loan.interest.1.0`
+  * prefix color = Gray
+  * No EXP interest
+  * Bank Tabs 1 = `bank.tabs.1`
+  * 2 x $200 loans =  `bank.loan.amount.200.2`
+  * 10% Interest = `bank.loan.interest.1.0`
 * Blood Guard - Rank 1
- * prefix color blue = `&9`
- * Bank Tabs 2 = `bank.tabs.2`
- * 2 x $300 loans =  `bank.loan.amount.200.3`
+  * prefix color blue = `&9`
+  * Bank Tabs 2 = `bank.tabs.2`
+  * 2 x $300 loans =  `bank.loan.amount.200.3`
  * 9% Interest = `bank.loan.interest.0.9`
 * Legionaire - Rank 2
- * prefix color light purple = `&d`
- * Bank Tabs 3 = `bank.tabs.3`
- * 3 x $300 loans =  `bank.loan.amount.300.3`
- * 8% Interest = `bank.loan.interest.0.8`
+  * prefix color light purple = `&d`
+  * Bank Tabs 3 = `bank.tabs.3`
+  * 3 x $300 loans =  `bank.loan.amount.300.3`
+  * 8% Interest = `bank.loan.interest.0.8`
 * Centurion - Rank 3
- * EXP Interest
- * prefix color dark purple = `&5`
- * Bank Tabs 4 = `bank.tabs.4`
- * 3 x $400 loans =  `bank.loan.amount.400.3`
- * 7% Interest = `bank.loan.interest.0.7`
+  * EXP Interest
+  * prefix color dark purple = `&5`
+  * Bank Tabs 4 = `bank.tabs.4`
+  * 3 x $400 loans =  `bank.loan.amount.400.3`
+  * 7% Interest = `bank.loan.interest.0.7`
 * Champion - Rank 4
- * EXP Interest
- * prefix color dark aqua = `&3`
- * Bank Tabs 5 = `bank.tabs.5`
- * 4 x $400 loans =  `bank.loan.amount.400.4`
- * 6% Interest = `bank.loan.interest.0.6`
+  * EXP Interest
+  * prefix color dark aqua = `&3`
+  * Bank Tabs 5 = `bank.tabs.5`
+  * 4 x $400 loans =  `bank.loan.amount.400.4`
+  * 6% Interest = `bank.loan.interest.0.6`
 * Lietenant - Helper
 * General - Moderator
 * Warlord - Donator 1
