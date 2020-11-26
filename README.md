@@ -106,7 +106,6 @@ Feateues
 
 #### Natural Enemies:
 * Orc
-* Elves
 
 #### Effects:
 
@@ -125,7 +124,6 @@ Feateues
 
 #### Natural Enemies:
 * Orcs
-* Humans
 
 #### Effects:
 
@@ -144,7 +142,6 @@ Feateues
 
 #### Natural Enemies:
 * Orcs
-* Humans
 
 #### Effects:
 
@@ -185,6 +182,25 @@ None
 
 #### Natural Enemies:
 * Orcs
+
+#### Effects:
+
+#### Perms:
+
+<br>
+
+### Orcs
+
+#### Homecity:
+* To be named
+
+#### Allies:
+* Goblins
+
+#### Natural Enemies:
+* Dwaves
+* Humans
+* Elves
 
 #### Effects:
 
