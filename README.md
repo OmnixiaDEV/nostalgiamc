@@ -123,4 +123,21 @@
 
 #### Perms:
 
+<br>
+
+### Dwarves
+
+#### Homecity:
+* To be named
+
+#### Allies:
+* Elves
+
+#### Natural Enemies:
+* Orcs
+
+#### Effects:
+
+#### Perms:
+
 ## Next races
