@@ -1,12 +1,12 @@
 # nostalgiamc
 
-##Todo list
+## Todo list
 - [ ] Ranks
 - [ ] Starter Tutorial
 - [ ] Quests
 - [ ] Setup Races
 
-#Ranks
+# Ranks
 * Stone Guard - Default
   * prefix color = Gray
   * No EXP interest
@@ -43,7 +43,7 @@
 
 
 
-#Starter Tutorial
+# Starter Tutorial
 
 * Scene 1
   * `&fWelcome to`
@@ -90,4 +90,37 @@
 * TBC
 
 
+# Races
 
+## Launch Races
+
+### Human
+
+#### Homecity:
+
+### Allies:
+
+### Natural Enemies:
+
+### Effects:
+
+### Perms:
+
+<br>
+
+### Elves
+
+#### Homecity:
+* Sanctuary
+
+### Allies:
+* Dwarves
+
+### Natural Enemies:
+* Orcs
+
+### Effects:
+
+### Perms:
+
+## Next races
