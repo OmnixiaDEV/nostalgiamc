@@ -92,6 +92,9 @@
 
 # Races
 
+Feateues
+* Per race cinematic view
+
 ## Launch Races
 
 ### Human
@@ -99,6 +102,7 @@
 #### Homecity:
 
 #### Allies:
+* Goblins
 
 #### Natural Enemies:
 * Orc
@@ -117,10 +121,11 @@
 
 #### Allies:
 * Dwarves
+* Goblins
 
 #### Natural Enemies:
 * Orcs
-* Goblins
+* Humans
 
 #### Effects:
 
@@ -135,11 +140,11 @@
 
 #### Allies:
 * Elves
+* Goblins
 
 #### Natural Enemies:
 * Orcs
-* Goblins
-
+* Humans
 
 #### Effects:
 
@@ -154,12 +159,15 @@
 
 #### Allies:
 * Orcs
-
-#### Natural Enemies:
 * Elves
 * Dwarves
+* Humans
+
+#### Natural Enemies:
+None
 
 #### Effects:
+None
 
 #### Perms:
 * Additonal Bank Loans
