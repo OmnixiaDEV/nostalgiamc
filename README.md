@@ -98,13 +98,13 @@
 
 #### Homecity:
 
-### Allies:
+#### Allies:
 
-### Natural Enemies:
+#### Natural Enemies:
 
-### Effects:
+#### Effects:
 
-### Perms:
+#### Perms:
 
 <br>
 
@@ -113,14 +113,14 @@
 #### Homecity:
 * Sanctuary
 
-### Allies:
+#### Allies:
 * Dwarves
 
-### Natural Enemies:
+#### Natural Enemies:
 * Orcs
 
-### Effects:
+#### Effects:
 
-### Perms:
+#### Perms:
 
 ## Next races
