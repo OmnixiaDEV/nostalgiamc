@@ -101,6 +101,8 @@
 #### Allies:
 
 #### Natural Enemies:
+* Orc
+* Elves
 
 #### Effects:
 
@@ -118,6 +120,44 @@
 
 #### Natural Enemies:
 * Orcs
+* Goblins
+
+#### Effects:
+
+#### Perms:
+
+<br>
+
+### Dwarves
+
+#### Homecity:
+* To be named
+
+#### Allies:
+* Elves
+
+#### Natural Enemies:
+* Orcs
+* Goblins
+
+
+#### Effects:
+
+#### Perms:
+
+<br>
+
+### Goblins
+
+#### Homecity:
+* To be built
+
+#### Allies:
+* Orcs
+
+#### Natural Enemies:
+* Elves
+* Dwarves
 
 #### Effects:
 
