@@ -162,6 +162,8 @@
 #### Effects:
 
 #### Perms:
+* Additonal Bank Loans
+* Low interest Rate
 
 <br>
 
