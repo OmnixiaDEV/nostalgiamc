@@ -11,6 +11,6 @@
 
 
 
-
+Read the <a href = "https://github.com/OmnixiaDEV/nostalgiamc/wiki">wiki</a>.
 
 
